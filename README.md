@@ -1,3 +1,3 @@
 # tripsorter
 
-Web app that finds the cheapst or fastest way to travel from a city to another
+A simple web app that finds the cheapest or fastest way to travel from a city to another, based on a provided json file containing  the required info
